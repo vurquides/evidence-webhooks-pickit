@@ -5,6 +5,9 @@
 ### Panel Administrador (Trump)
 - URL: [Panel Administrador](https://temp-feature-webhooks-pickit.thetrancon.com/trump)
 
+### PiboxWeb
+- URL: [Web](https://piboxdev3.netlify.app)
+
 ### Repositorio de GitHub
 - Rama de Desarrollo: [feature/webhooks_pickit](https://github.com/picap-inc/picap/tree/feature/webhooks_pickit)
 

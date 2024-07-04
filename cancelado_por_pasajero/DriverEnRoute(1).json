@@ -1,0 +1,39 @@
+{
+    "pickitCode": "10000005",
+    "shipmentNumber": "668605d03c8b8300346b3273",
+    "state": {
+      "id": 1,
+      "name": "Driver En Route"
+    },
+    "reason": {
+      "id": 0,
+      "name": ""
+    },
+    "logisticsCenter": "",
+    "batch": "",
+    "driver": {
+      "id": "64754b81dc8bf7001ac3a1de",
+      "name": "Torvick Test"
+    },
+    "vehicle": {
+      "id": "5d07bbfdbab074461d60b317",
+      "type": "Moto"
+    },
+    "bin": "",
+    "dateOfChange": "2024-07-04 02:18:54",
+    "packages": [
+      {
+        "id": "6686065b3c8b8300346b3292",
+        "reference": "10000005",
+        "evidences": {
+          "picked": null,
+          "optional_picked": null,
+          "delivered": null,
+          "optional_delivered": null
+        },
+        "status_cd": 0,
+        "status": "Waiting For Pick Up"
+      }
+    ],
+    "originalsShippingNumber": []
+  }

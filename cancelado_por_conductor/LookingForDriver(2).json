@@ -1,0 +1,39 @@
+{
+    "pickitCode": "10000005",
+    "shipmentNumber": "6685fede3c8b8300326b326c",
+    "state": {
+      "id": 0,
+      "name": "Looking For Driver"
+    },
+    "reason": {
+      "id": 0,
+      "name": ""
+    },
+    "logisticsCenter": "",
+    "batch": "",
+    "driver": {
+      "id": "0",
+      "name": ""
+    },
+    "vehicle": {
+      "id": "0",
+      "type": ""
+    },
+    "bin": "",
+    "dateOfChange": "2024-07-04 01:47:43",
+    "packages": [
+      {
+        "id": "6685ff3e3c8b8300326b3294",
+        "reference": "10000005",
+        "evidences": {
+          "picked": null,
+          "optional_picked": null,
+          "delivered": null,
+          "optional_delivered": null
+        },
+        "status_cd": 0,
+        "status": "Waiting For Pick Up"
+      }
+    ],
+    "originalsShippingNumber": []
+  }

@@ -26,8 +26,8 @@
 4. **Verificación de Escenarios**
    - Se verificaron los siguientes escenarios:
      - Cancelado por conductor
-       - Archivos JSON: [Cancelado por conductor](https://github.com/vurquides/evidence-webhooks-pickit/cancelado_por_conductor)
+       - Archivos JSON: [Cancelado por conductor](https://github.com/vurquides/evidence-webhooks-pickit/tree/master/cancelado_por_conductor)
      - Cancelado por pasajero
-       - Archivos JSON: [Cancelado por pasajero](https://github.com/vurquides/evidence-webhooks-pickit/cancelado_por_pasajero)
+       - Archivos JSON: [Cancelado por pasajero](https://github.com/vurquides/evidence-webhooks-pickit/tree/master/cancelado_por_pasajero)
      - Expirado
-       - Archivos JSON: [Expirado](https://github.com/vurquides/evidence-webhooks-pickit/expirado)
+       - Archivos JSON: [Expirado](https://github.com/vurquides/evidence-webhooks-pickit/tree/master/expirado)
